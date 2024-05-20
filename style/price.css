@@ -1,0 +1,8 @@
+.price {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515076;
+}
+

@@ -1,0 +1,9 @@
+.compound__list {
+    padding-left: 15px;
+    margin-bottom: 25px;
+}
+
+.compound__name {
+    display: inline-block;
+    margin-bottom: 5px;
+}
