@@ -16,15 +16,12 @@
     color: #A5A3B9;
     margin-bottom: 5px;
 }
-
 .card__name {
     color: #515076;
     font-size: 20px;
     line-height: 27px;
     margin: 0;
 }
-
-
 .card__description {
     color: #515076;
     margin-top: 5px;
@@ -33,12 +30,9 @@
 .card__description p:first-child {
     margin-top: 0;
 }
-
 .card__description p {
     margin-bottom: 15px;
 }
-
-
 .card__compound {
     color: #515076;
 }
